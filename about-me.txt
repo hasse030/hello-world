@@ -4,3 +4,4 @@ Gender: Male
 Country: Cambodai
 City: Phnom Penh
 Status: Single
+Job: Student
